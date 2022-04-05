@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "56416103027",
+    "firebase_url": "https://sinphyutaw-4feac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sinphyutaw-4feac",
+    "storage_bucket": "sinphyutaw-4feac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56416103027:android:f2c1be2a6d3eefa5c69806",
+        "android_client_info": {
+          "package_name": "com.lastoenjoy.shwewinngwewin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56416103027-0gtrmhoto5fnu3q3j8rhodrg8hct2lm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastoenjoy.shwewinngwewin",
+            "certificate_hash": "afe4fdaeea3dc6540d156730f14c4525f5ee953a"
+          }
+        },
+        {
+          "client_id": "56416103027-kllrhu0o86jkc68a8o8gaps5bb7v2sic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastoenjoy.shwewinngwewin",
+            "certificate_hash": "86376f5214f5cdeaecef394156912fcea6c97049"
+          }
+        },
+        {
+          "client_id": "56416103027-jbjvef2cog33cihukgss7q91j4fteg4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLu7kivb4rr2xbiCRakCNMP_jGbKuIUeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56416103027-jbjvef2cog33cihukgss7q91j4fteg4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56416103027:android:7e9389002d7c3783c69806",
+        "android_client_info": {
+          "package_name": "com.lastoenjoy.sinphyutaw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56416103027-8vr630lpa993qt21686j6g50hbttq6b9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lastoenjoy.sinphyutaw",
+            "certificate_hash": "b5bf425e273798473efa59fafe407316dfd12c23"
+          }
+        },
+        {
+          "client_id": "56416103027-jbjvef2cog33cihukgss7q91j4fteg4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLu7kivb4rr2xbiCRakCNMP_jGbKuIUeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56416103027-jbjvef2cog33cihukgss7q91j4fteg4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
